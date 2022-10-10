@@ -13,12 +13,14 @@
    * Usando módulos do Python: Ex16 ao 27.
    * Condições em Python (if...else): Ex28 ao 35.
 
+ 
 </p>
 
+ 
 </details>
 
 
-## <details><summary> 👩‍🎓 Python 3 – Mundo 2</summary>
+### <details><summary> 👩‍🎓 Python 3 – Mundo 2</summary>
 
 <p>
 
@@ -29,10 +31,11 @@
 
 </p>
 
+ 
 </details>
 
 
-## <details><summary> 👩‍🎓 Python 3 – Mundo 3</summary>
+### <details><summary> 👩‍🎓 Python 3 – Mundo 3</summary>
 
 <p>
 
