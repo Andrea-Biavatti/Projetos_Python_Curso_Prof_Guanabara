@@ -2,7 +2,7 @@
 
  Atividades desenvolvidas com o Professor Guanabara, no Curso em Vídeo.
 
- <details><summary> 👩‍🎓 Python 3 – Mundo 1</summary>
+ ## <details><summary> 👩‍🎓 Python 3 – Mundo 1</summary>
 
 <p>
 
