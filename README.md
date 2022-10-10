@@ -1,8 +1,10 @@
 # ![Cópia de Sem nome](https://user-images.githubusercontent.com/72770754/194925334-d353a652-4d4e-4aa2-8125-82b6253a091f.png) Projetos em Python
 
  Atividades desenvolvidas com o Professor Guanabara, no Curso em Vídeo.
+ 
+ 
 
- ## <details><summary> 👩‍🎓 Python 3 – Mundo 1</summary>
+ ### <details><summary> 👩‍🎓 Python 3 – Mundo 1</summary>
 
 <p>
 
@@ -16,7 +18,7 @@
 </details>
 
 
-<details><summary> 👩‍🎓 Python 3 – Mundo 2</summary>
+## <details><summary> 👩‍🎓 Python 3 – Mundo 2</summary>
 
 <p>
 
@@ -30,7 +32,7 @@
 </details>
 
 
-<details><summary> 👩‍🎓 Python 3 – Mundo 3</summary>
+## <details><summary> 👩‍🎓 Python 3 – Mundo 3</summary>
 
 <p>
 
