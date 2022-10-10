@@ -8,8 +8,8 @@
 
    * Primeiros passos com o Python: Ex02.
    * Tratando dados e fazendo contas: Ex03 ao 15.
-   * Usando módulos do Python: Ex16 a 27.
-   * Condições em Python (if...else): Ex28 a 35.
+   * Usando módulos do Python: Ex16 ao 27.
+   * Condições em Python (if...else): Ex28 ao 35.
 
 </p>
 
@@ -20,7 +20,9 @@
 
 <p>
 
-   * 
+   * Condições em Python (if...elif): Ex36 ao 45.
+   * Repetições em Python (for): Ex46 ao 56.
+   * Repetições em Python (while): Ex57 a 71.
 
 
 </p>
@@ -32,7 +34,12 @@
 
 <p>
 
-   * 
+   * Tuplas em Python: Ex72 ao 77.
+   * Listas em Python: Ex78 ao 89.
+   * Dicionários em Python: Ex90 ao 95.
+   * Funções em Python: Ex96 ao 106.
+   * Modularização em Python: Ex107 ao 112.
+   * Tratamento de Erros em Python: Ex113 ao 115c.
 
 
 </p>
