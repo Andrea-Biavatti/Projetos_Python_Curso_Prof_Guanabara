@@ -1,4 +1,4 @@
-# ![Design sem nome (17)](https://user-images.githubusercontent.com/72770754/194924337-39459676-b524-4a50-aee5-324e32a85a30.png) Projetos em Python
+# ![Cópia de Sem nome](https://user-images.githubusercontent.com/72770754/194925334-d353a652-4d4e-4aa2-8125-82b6253a091f.png) Projetos em Python
 
  Atividades desenvolvidas com o Professor Guanabara, no Curso em Vídeo.
 
